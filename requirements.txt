@@ -1,0 +1,7 @@
+open -e requirements.txt
+pypdf
+sentence-transformers
+scikit-learn
+google-genai
+numpy
+faiss-cpu
